@@ -1,9 +1,10 @@
 Hi, Welcome to my GitHub 👋 I'm Yuchen Zhang
 
-I'm currently a Ph.D. student at Rensselaer Polytechnic Institution (RPI), Troy, NY. 
+I'm currently a Ph.D. student in Computer Science at Rensselaer Polytechnic Institution (RPI), Troy, NY. 
 
-- 🔭 I'm learning and working on AI explanation, controlling, etc..
-- 📫 How to reach me: erik.yczhang@gmail.com
+- 💡 My research interest lies broadly in the field of Machine Learning and Artificial Intelligence. 
+- 🔭 I aim to make AI and LLMs beneficial for everyone.
+- 🌱 I’m currently exploring how to enhance language models’ capabilities by representation steering, self-improvement and training data selection.
 <!--
 **YCZZZZZZ/YCZZZZZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
