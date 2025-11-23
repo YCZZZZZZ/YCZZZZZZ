@@ -1,12 +1,16 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /Teaching/
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+CSCI 2200 Foundations of Computer Science (RPI)
 
-Organize your courses by years, topics, or universities, however you like!
+CSCI 4963 & CSCI 6963 Reinforcement Learning (RPI)
+
+ESE 524 Estimation and Detection Theory (WashU)
+
+ESE 520 Probability Theory and Stochastic Process (WashU)
