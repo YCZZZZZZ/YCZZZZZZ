@@ -82,10 +82,10 @@ layout: default
 
     <!-- Social -->
     {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
+      <div class="social" style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%;">
+        <div class="contact-icons" style="display: flex; justify-content: center; align-items: center; gap: 1.5rem; flex-wrap: wrap; width: 100%;">{% include social.liquid %}</div>
 
-        <div class="contact-note">{{ site.contact_note }}</div>
+        <div class="contact-note" style="text-align: center;">{{ site.contact_note }}</div>
       </div>
     {% endif %}
 
