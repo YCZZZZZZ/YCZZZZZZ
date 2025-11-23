@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "YCZZZZZZ/yuchenzhang",
+    "data-repo": "YCZZZZZZ/YCZZZZZZ",
     "data-repo-id": "",
     "data-category": "",
     "data-category-id": "",
