@@ -7,21 +7,21 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/YCZZZZZZ/";
+      window.location.href = "/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/YCZZZZZZ/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/YCZZZZZZ/Teaching/";
+            window.location.href = "/Teaching/";
           },
         },{id: "news-first-launch-of-my-website",
           title: 'First launch of my website.',
