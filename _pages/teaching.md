@@ -1,0 +1,28 @@
+<!-- ---
+layout: page
+permalink: /Teaching/
+title: Teaching
+description:
+nav: true
+nav_order: 6
+---
+
+<div class="teaching">
+
+## Graduate Courses
+
+**CSCI 4963 & CSCI 6963 Reinforcement Learning**  
+Rensselaer Polytechnic Institute (RPI)
+
+**ESE 524 Estimation and Detection Theory**  
+Washington University in St. Louis (WashU)
+
+**ESE 520 Probability Theory and Stochastic Process**  
+Washington University in St. Louis (WashU)
+
+## Undergraduate Courses
+
+**CSCI 2200 Foundations of Computer Science**  
+Rensselaer Polytechnic Institute (RPI)
+
+</div> -->
