@@ -11,6 +11,8 @@ profile:
   more_info: >
 
 industry_experience: true
+teaching_experience: true
+service: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 

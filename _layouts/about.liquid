@@ -43,7 +43,7 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+        <a style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -51,15 +51,31 @@ layout: default
     <!-- Industry Experience -->
     {% if page.industry_experience %}
       <h2>
-        <a href="{{ '/intern/' | relative_url }}" style="color: inherit">Industry Experience</a>
+        <a style="color: inherit">Industry Experience</a>
       </h2>
       {% include industry_experience.liquid %}
+    {% endif %}
+
+    <!-- Service -->
+    {% if page.service %}
+      <h2>
+        <a style="color: inherit">Service</a>
+      </h2>
+      {% include service.liquid %}
+    {% endif %}
+
+    <!-- Teaching Experience -->
+    {% if page.teaching_experience %}
+      <h2>
+        <a style="color: inherit">Teaching Experience</a>
+      </h2>
+      {% include teaching_experience.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Publications</a>
+        <a style="color: inherit">Selected Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
