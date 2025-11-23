@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /Teaching/
 title: Teaching
@@ -25,4 +25,4 @@ Washington University in St. Louis (WashU)
 **CSCI 2200 Foundations of Computer Science**  
 Rensselaer Polytechnic Institute (RPI)
 
-</div>
+</div> -->
